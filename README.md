@@ -1,5 +1,5 @@
 # NETFLIX SQL
-https://github.com/diwakarrohit67-beep/SQL-netlix/blob/main/logo.png
+[https://github.com/diwakarrohit67-beep/SQL-netlix/blob/main/logo.png](https://github.com/diwakarrohit67-beep/SQL-netlix/blob/main/logo.png?raw=true)
 NETFLIX SQL Projects gives the solution of TV/TV Show in all over the world with clean clear data
 
 ## Overview
