@@ -1,4 +1,4 @@
-# SQL-netlix
+# NETFLIX SQL
 NETFLIX SQL Projects gives the solution of TV/TV Show in all over the world with clean clear data
 
 ## Overview
